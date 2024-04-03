@@ -772,8 +772,8 @@ nav ul .fa-xmark {
     }
 }
 @media (max-width: 576px ) { 
-    .contact .contact-content .info .icon .text{ 
-        width: 75%;
+    .contact .contact-content .info  .text{ 
+        width: 75% ;
     }
 }
  /* End Contact  */
